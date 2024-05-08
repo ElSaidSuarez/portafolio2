@@ -236,7 +236,7 @@
         }
         
         #servicios .fila .servicio {
-            max-width: 350px;
+            max-width: 351px;
             background-color: #fff;
             padding: 30px;
             margin: 0 5px;
@@ -259,7 +259,7 @@
         }
         
         #servicios .fila .servicio h4 {
-            font-size: 22px;
+            font-size: 21px;
             margin-bottom: 25px;
         }
         
@@ -279,7 +279,7 @@
         
         #servicios .fila .servicio p {
             font-size: 14px;
-            line-height: 22px;
+            line-height: 21px;
         }
         
         .tituloHabilidad{
@@ -287,7 +287,7 @@
             font-weight: bold;
             text-align: center;
             margin: 0 0 5% 0;
-            letter-spacing: 3px;
+            letter-spacing: 2.5px;
         }
         
         
@@ -486,7 +486,7 @@
         
         #contacto .btn-enviar:hover {
             background-color: #ff5080;
-            color: #fff;
+            color: #ffffff97;
         }
         /* *********************/
         /* seccion F O O T E R */
